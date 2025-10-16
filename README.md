@@ -25,17 +25,21 @@ I'm a third-year Mathematics and Computer Science undergraduate at **École Poly
 
 ### ✨ Experience & Projects
 
-* **AI Development Intern @ Foris (Current):** Generalizing a rule-generating AI agent for full integration into the company's workflow. Working in Spanish. Main tech: LangChain & LangGraph
-* **Software Engineer Intern @ Genial AI:** Developed a full-stack, secure gateway to query open-source LLMs, reducing API costs for this use case.
+* **AI Development Intern @ Foris (Current):** Generalizing a rule-generating AI agent for full integration into the company's workflow. Working in Spanish. Main tech: LangChain & LangGraph [LangChain course](https://github.com/nicolasasseo?tab=repositories) and [LangGraph course](https://github.com/nicolasasseo/LangGraph-CrashCours).
+* **Software Engineer Intern @ Genial AI:** Developed a full-stack, secure gateway to query open-source LLMs, reducing API costs for this use case. Used [Next](https://github.com/nicolasasseo/OpenSource_LLM_Wrapper) initially and refactored to [Python FastAPI](https://github.com/nicolasasseo/llm-fast-api) for easy integration.
 * **Research Project @ LIX (École Polytechnique):** Implemented implicit texturing techniques for 3D models using JavaScript and GLSL.
 * **Founder @ SosToMaths:** Created and launched a platform to help middle-schoolers with mathematics, growing the user base to 3,000 students.
+* **Machine Learning Credit Risk Analysis:** final project for my Machine Learning class where we implemented many different ML algorithms to study a Kaggle dataset. [See here](https://github.com/nicolasasseo/Credit_Risk_Analysis)
+* **Godot 2D Games:** built in the context of my Video Game Dev class in Chile. Built one simple platformer alone. Also did a group project where we built a game based around teleporters.
 
 ---
+
 
 ### 📫 Get in Touch
 
 * **Email:** `nicolas.asseo@polytechnique.edu`
 * **LinkedIn:** `https://www.linkedin.com/in/nicolas-asseo-71390424b/`
+
 
 
 
