@@ -30,7 +30,7 @@ I'm a third-year Mathematics and Computer Science undergraduate at **École Poly
 * **Research Project @ LIX (École Polytechnique):** Implemented implicit texturing techniques for 3D models using JavaScript and GLSL.
 * **Founder @ SosToMaths:** Created and launched a platform to help middle-schoolers with mathematics, growing the user base to 3,000 students.
 * **Machine Learning Credit Risk Analysis:** final project for my Machine Learning class where we implemented many different ML algorithms to study a Kaggle dataset. [See here](https://github.com/nicolasasseo/Credit_Risk_Analysis)
-* **Godot 2D Games:** built in the context of my Video Game Dev class in Chile. Built one simple platformer alone. Also did a group project where we built a game based around teleporters.
+* **Godot 2D Games:** built in the context of my Video Game Dev class in Chile. Built one simple platformer alone [KnightStomp](https://github.com/nicolasasseo/KnightStomp). Also did a group project where we built a game based around teleporters.
 
 ---
 
@@ -39,6 +39,7 @@ I'm a third-year Mathematics and Computer Science undergraduate at **École Poly
 
 * **Email:** `nicolas.asseo@polytechnique.edu`
 * **LinkedIn:** `https://www.linkedin.com/in/nicolas-asseo-71390424b/`
+
 
 
 
