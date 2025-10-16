@@ -14,7 +14,7 @@ I'm a third-year Mathematics and Computer Science undergraduate at **École Poly
 
 ### 💻 My Tech Stack
 
-| **Programming** | **AI & Machine Learning** | **Web Development** 
+| **Programming** | **AI & Machine Learning** | **Web Development**  |
 | :--- | :--- | :--- | :--- |
 | Python | LangChain | JavaScript (ES6+) | 
 | SQL | LangGraph | Next.js / React.js | 
@@ -36,5 +36,6 @@ I'm a third-year Mathematics and Computer Science undergraduate at **École Poly
 
 * **Email:** `nicolas.asseo@polytechnique.edu`
 * **LinkedIn:** `https://www.linkedin.com/in/nicolas-asseo-71390424b/`
+
 
 
