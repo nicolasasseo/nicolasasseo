@@ -8,7 +8,7 @@ I'm a third-year Mathematics and Computer Science undergraduate at **École Poly
 
 * **Artificial Intelligence:** Developing and generalizing AI agents using frameworks like LangChain and LangGraph.
 * **Full-Stack Development:** Engineering secure and scalable web applications with Next.js, Python, and AWS.
-* **Computer Graphics:** Exploring shader programming and rendering techniques for implicit 3D models.
+* **Computer Graphics and Video Games:** Exploring shader programming and rendering techniques while delving into Godot and 2D game creation.
 
 ---
 
@@ -36,3 +36,4 @@ I'm a third-year Mathematics and Computer Science undergraduate at **École Poly
 
 * **Email:** `nicolas.asseo@polytechnique.edu`
 * **LinkedIn:** `https://www.linkedin.com/in/nicolas-asseo-71390424b/`
+
