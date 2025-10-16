@@ -14,20 +14,20 @@ I'm a third-year Mathematics and Computer Science undergraduate at **École Poly
 
 ### 💻 My Tech Stack
 
-| **Languages** | **AI & Machine Learning** | **Web Development** | **Other** |
+| **Programming** | **AI & Machine Learning** | **Web Development** 
 | :--- | :--- | :--- | :--- |
-| Python | LangChain | JavaScript (ES6+) | C / C++ |
-| SQL | LangGraph | Next.js / React.js | GLSL |
-| | | Node.js | Git & GitHub |
-| | | HTML5 & CSS3 | AWS (EC2) |
+| Python | LangChain | JavaScript (ES6+) | 
+| SQL | LangGraph | Next.js / React.js | 
+| C/ C++| | Node.js | Git, AWS |
+| GDScript, GLSL| | HTML5 & CSS | 
 
 ---
 
 ### ✨ Experience & Projects
 
-* **AI Development Intern @ Foris (Current):** Generalizing a rule-generating AI agent for full integration into the company's workflow.
-* **Software Engineer Intern @ Genial AI:** Developed a full-stack, secure gateway to query open-source LLMs, reducing API costs by over 90%.
-* **Research Project @ LIX (École Polytechnique):** Implemented novel texturing techniques for 3D models using JavaScript and GLSL for the *Matisse* software.
+* **AI Development Intern @ Foris (Current):** Generalizing a rule-generating AI agent for full integration into the company's workflow. Working in Spanish. Main tech: LangChain & LangGraph
+* **Software Engineer Intern @ Genial AI:** Developed a full-stack, secure gateway to query open-source LLMs, reducing API costs for this use case.
+* **Research Project @ LIX (École Polytechnique):** Implemented implicit texturing techniques for 3D models using JavaScript and GLSL.
 * **Founder @ SosToMaths:** Created and launched a platform to help middle-schoolers with mathematics, growing the user base to 3,000 students.
 
 ---
@@ -36,4 +36,5 @@ I'm a third-year Mathematics and Computer Science undergraduate at **École Poly
 
 * **Email:** `nicolas.asseo@polytechnique.edu`
 * **LinkedIn:** `https://www.linkedin.com/in/nicolas-asseo-71390424b/`
+
 
