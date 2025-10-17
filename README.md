@@ -4,15 +4,6 @@ I'm a third-year Mathematics and Computer Science undergraduate at **École Poly
 
 ---
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=nicolasasseo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nicolas Asséo's GitHub stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasasseo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
-
 ### 🚀 What I'm Currently Focused On
 
 * **Artificial Intelligence:** Developing and generalizing AI agents using frameworks like LangChain and LangGraph.
@@ -34,6 +25,7 @@ I'm a third-year Mathematics and Computer Science undergraduate at **École Poly
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
+
 ---
 
 ### ✨ Experience & Projects
