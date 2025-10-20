@@ -30,6 +30,7 @@ I'm a third-year Mathematics and Computer Science undergraduate at **École Poly
 
 ### ✨ Experience & Projects
 
+* **Current work on my Travel Planner:** when learning Next-JS, I followed along a tutorial to make a Travel Planner App. I am now adding AI functionality in it to add my own touch to this project.
 * **AI Development Intern @ Foris (Current):** Generalizing a rule-generating AI agent for full integration into the company's workflow. Working in Spanish. Main tech: LangChain & LangGraph [LangChain course](https://github.com/nicolasasseo?tab=repositories) and [LangGraph course](https://github.com/nicolasasseo/LangGraph-CrashCours).
 * **Software Engineer Intern @ Genial AI:** Developed a full-stack, secure gateway to query open-source LLMs, reducing API costs for this use case. Used [Next](https://github.com/nicolasasseo/OpenSource_LLM_Wrapper) initially and refactored to [Python FastAPI](https://github.com/nicolasasseo/llm-fast-api) for easy integration.
 * **Research Project @ LIX (École Polytechnique):** Implemented implicit texturing techniques for 3D models using JavaScript and GLSL.
@@ -44,6 +45,7 @@ I'm a third-year Mathematics and Computer Science undergraduate at **École Poly
 
 * **Email:** `nicolas.asseo@polytechnique.edu`
 * **LinkedIn:** `https://www.linkedin.com/in/nicolas-asseo-71390424b/`
+
 
 
 
